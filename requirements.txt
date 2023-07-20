@@ -1,0 +1,5 @@
+tensorflow-federated
+nest-asyncio
+pandas
+matplotlib
+jupyterlab
